@@ -2,7 +2,7 @@
 
 Meu nome é **Ana Beatriz Sotero**
 
-- Estudo no Instituto Federal
+- Estudei GitHub na plataforma da [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem Java
 - No momento estou trabalhando no projeto `Tune Tracer: um auxiliador para músicos`
 
