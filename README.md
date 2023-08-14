@@ -1,16 +1,13 @@
-### Hi there 👋
+### Seja bem-vindo! 🐈‍⬛
 
-<!--
-**anasotero/anasotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Ana Beatriz Sotero**
 
-Here are some ideas to get you started:
+- Estudo no Instituto Federal
+- Estou me desenvolvendo na linguagem Java
+- No momento estou trabalhando no projeto `Tune Tracer: um auxiliador para músicos`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### E-mail para contato 💌
+
+2022327225@ifam.edu.br
+
+![](https://github.com/anasotero/anasotero/assets/142185151/782286d2-6542-4d1f-a0a5-16049713a729)
